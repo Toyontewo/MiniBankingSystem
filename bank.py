@@ -46,7 +46,7 @@ try:
 
                 # Assigning user information to a"1/Bank System/User Information"" txt
 
-                with open(f"../Bank System/User Information/{f_name}_data.txt", "w") as user_data:
+                with open(f"{f_name}_data.txt", "w") as user_data:
                     user_data.write(f"First Name: {f_name} \nLast Name: {l_name} \nUsername: {username} \nPassword: {password} "
                                     f"\nEmail: {email} ")
 
