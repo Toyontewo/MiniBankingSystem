@@ -24,23 +24,3 @@ python3 main.py
 ```
 
 depending on python version^^^
-
-From there you should see the Command Line Interface like this:
-
-```commandline
-nnamdimadakor@nnamdis-Mac-mini C950 % python3 Main.py
-
-	What would you like to do?
-
-	d - Begin Delivery Simulation and Package Information Lookup
-	q - Quit
-
->d
-
-	Beginning delivery simulation...
-
-	During deliver, new information has come in about package #9!
-	Would you like to correct the address for package #9? Enter 'y' or 'n'
->y
-	Package #9's address has been updated to: 410 S State St., Salt Lake City, UT 84111!
-
