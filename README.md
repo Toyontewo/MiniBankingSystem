@@ -3,7 +3,7 @@
 
 
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="https://imgur.com/a/nEmCakC" alt="Italian Trulli">
 
 
 <h2> Description </h2>
