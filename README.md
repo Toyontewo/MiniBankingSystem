@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://imgur.com/2P2PyTL" />
+<img src="https://imgur.com/tXKBQEK" />
 </p>
 
 <h2> Description </h2>
