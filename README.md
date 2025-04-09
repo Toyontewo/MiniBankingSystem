@@ -1,6 +1,6 @@
 # Mini Banking System
 
-<a href="https://www.flaticon.com/free-icons/banking-system" title="banking system icons">Banking system icons created by Freepik - Flaticon</a>
+<a href="https://github.com/Toyontewo/MiniBankingSystem/blob/main/banking-system.png" title="banking system icons"></a>
 
 
 <h2> Description </h2>
