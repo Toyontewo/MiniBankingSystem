@@ -1,6 +1,6 @@
 # Mini Banking System
 
-<a href="https://github.com/Toyontewo/MiniBankingSystem/blob/main/banking-system.png" title="banking system icons"></a>
+![Alt text](https://github.com/Toyontewo/MiniBankingSystem/blob/main/banking-system.png]
 
 
 <h2> Description </h2>
