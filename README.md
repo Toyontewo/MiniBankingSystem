@@ -1,9 +1,6 @@
 # Mini Banking System
 
-
-
-
-<img src="https://imgur.com/a/nEmCakC" alt="Italian Trulli">
+<a href="https://www.flaticon.com/free-icons/banking-system" title="banking system icons">Banking system icons created by Freepik - Flaticon</a>
 
 
 <h2> Description </h2>
